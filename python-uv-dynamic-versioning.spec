@@ -3,7 +3,7 @@
 
 Name:		python-uv-dynamic-versioning
 Version:	0.14.0
-Release:	1
+Release:	2
 Summary:	Dynamic versioning based on VCS tags for uv/hatch project
 License:	MIT
 Group:		Development/Python
